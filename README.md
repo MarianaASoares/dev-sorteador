@@ -4,6 +4,11 @@
 
 <p>Este projeto foi desenvolvido durante meus estudos no DevClub, com o objetivo de aprimorar a lógica de programação, aplicar boas práticas de desenvolvimento e criar interfaces responsivas focadas na experiência do usuário.</p>
 
+🔗 Deploy: https://dev-sorteador-seven.vercel.app/
+
+📁 Repositório: https://github.com/MarianaASoares/dev-sorteador
+
+
 ---
 
 # :rocket:Tecnologias 
